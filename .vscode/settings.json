@@ -1,0 +1,4 @@
+{
+    "phpserver.phpPath": "php.validate.executablePath",
+    "phpserver.phpConfigPath": "php.validate.executablePath"
+}
